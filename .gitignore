@@ -1,0 +1,51 @@
+## OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+## Thumbnails
+._*
+
+## Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+/tmp/*
+*~
+!*.pdf
+*.xbb
+*.ps
+*.dvi
+*.out
+*.aux
+*.log
+*.ltjruby
+*.synctex.*
+
+extras/
+
+test-*.pdf
+test-*.tex
+
+Work/*
+
+## CTAN upload archive
+gckanbun.tds.zip
+gckanbun.zip
+
+## AI assistants / editor metadata
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.claude.json
+.cursor/
+.cursorrules
+.aider*
+.continue/
+.windsurfrules
+.github/copilot-instructions.md
+
+## Editor / IDE
+.vscode/
+.idea/
