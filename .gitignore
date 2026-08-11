@@ -31,8 +31,8 @@ test-*.tex
 Work/*
 
 ## CTAN upload archive
-gckanbun.tds.zip
-gckanbun.zip
+kkchemstruct.tds.zip
+kkchemstruct.zip
 
 ## AI assistants / editor metadata
 .claude/
